@@ -1,0 +1,17 @@
+D:\E\SocialContext\bin\Debug\net8.0\SocialContext.deps.json
+D:\E\SocialContext\bin\Debug\net8.0\SocialContext.dll
+D:\E\SocialContext\bin\Debug\net8.0\SocialContext.pdb
+D:\E\SocialContext\bin\Debug\net8.0\Domain.dll
+D:\E\SocialContext\bin\Debug\net8.0\Domain.pdb
+D:\E\SocialContext\obj\Debug\net8.0\SocialContext.csproj.AssemblyReference.cache
+D:\E\SocialContext\obj\Debug\net8.0\SocialContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\E\SocialContext\obj\Debug\net8.0\SocialContext.AssemblyInfoInputs.cache
+D:\E\SocialContext\obj\Debug\net8.0\SocialContext.AssemblyInfo.cs
+D:\E\SocialContext\obj\Debug\net8.0\SocialContext.csproj.CoreCompileInputs.cache
+D:\E\SocialContext\obj\Debug\net8.0\SocialCo.E4064A4A.Up2Date
+D:\E\SocialContext\obj\Debug\net8.0\SocialContext.dll
+D:\E\SocialContext\obj\Debug\net8.0\refint\SocialContext.dll
+D:\E\SocialContext\obj\Debug\net8.0\SocialContext.pdb
+D:\E\SocialContext\obj\Debug\net8.0\ref\SocialContext.dll
+D:\E\SocialContext\bin\Debug\net8.0\SocialContext.runtimeconfig.json
+D:\E\SocialContext\obj\Debug\net8.0\SocialContext.genruntimeconfig.cache

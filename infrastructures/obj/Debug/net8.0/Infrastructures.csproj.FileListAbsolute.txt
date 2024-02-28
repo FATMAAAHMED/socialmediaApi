@@ -1,0 +1,11 @@
+D:\E\infrastructures\bin\Debug\net8.0\Infrastructures.deps.json
+D:\E\infrastructures\bin\Debug\net8.0\Infrastructures.dll
+D:\E\infrastructures\bin\Debug\net8.0\Infrastructures.pdb
+D:\E\infrastructures\obj\Debug\net8.0\Infrastructures.GeneratedMSBuildEditorConfig.editorconfig
+D:\E\infrastructures\obj\Debug\net8.0\Infrastructures.AssemblyInfoInputs.cache
+D:\E\infrastructures\obj\Debug\net8.0\Infrastructures.AssemblyInfo.cs
+D:\E\infrastructures\obj\Debug\net8.0\Infrastructures.csproj.CoreCompileInputs.cache
+D:\E\infrastructures\obj\Debug\net8.0\Infrastructures.dll
+D:\E\infrastructures\obj\Debug\net8.0\refint\Infrastructures.dll
+D:\E\infrastructures\obj\Debug\net8.0\Infrastructures.pdb
+D:\E\infrastructures\obj\Debug\net8.0\ref\Infrastructures.dll
